@@ -1,0 +1,39 @@
+@font-face{
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+	}
+
+header{
+	background-color: #A40A3C;
+	font-family:Century Gothic;
+	text-align: center;
+	color: white;
+	padding: 40px;
+
+}
+h1{
+	font-size: 105px;
+	margin: 0;
+}
+h2, h3{
+	margin: 0;
+}
+
+#lista1{
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden; /*pendiente*/
+     text-align: center;
+   } 
+     li a{   font-size: 25px;
+	font-family:Century Gothic;
+	text-decoration:   center; 
+	color: white;
+
+   }
+   footer{
+   	background-color: #A40A3C;
+   	text-align: center;
+   	padding: 15px;
+   }

@@ -1,0 +1,40 @@
+@font-face{
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+	}
+header{
+	background-color: #A40A3C;
+	padding:25px ;
+	font-size: 25px;
+	font-family:Century Gothic;
+	text-align: center; 
+	color: white;
+}
+h1{
+	font-size: 100px;
+	text-align: center;
+}
+#ilusion{
+	width:630px;
+	height:500px;
+}
+#lista1{
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden; 
+   }
+
+   li a{   font-size: 25px;
+	font-family:Century Gothic;
+	text-decoration:   center; 
+	color: white;
+
+   }
+footer{
+		background-color: #A40A3C;
+	padding:25px ;
+	font-size: 25px;
+	font-family:Century Gothic;
+	color: white;
+}
